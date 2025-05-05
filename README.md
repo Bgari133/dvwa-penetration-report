@@ -3,18 +3,6 @@
 This project contains a set of vulnerability exploitation reports based on the [Damn Vulnerable Web Application (DVWA)](https://owasp.org/www-project-damn-vulnerable-web-sockets/). The goal of this project is to demonstrate practical knowledge in identifying, exploiting, and documenting common web vulnerabilities as part of my learning path toward a career in cybersecurity and penetration testing.
 
 ---
-## 📁 Project Structure
-├── report/
-│   ├── command-injection.md
-│   ├── sql-injection.md
-│   └── reflected-xss.md
-├── screenshots/
-│   ├── command-injection.png
-│   ├── sql-injection.png
-│   └── reflected-xss.png
-└── README.md
-
----
 ## 🛠 Tools & Utilities Used
 
 - **DVWA (Damn Vulnerable Web Application)**  
@@ -42,7 +30,6 @@ This project contains a set of vulnerability exploitation reports based on the [
   Used to organize structured reports in Markdown, enabling easy linking and internal navigation between vulnerabilities.
 
 ---
-
 ## 📌 Covered Vulnerabilities
 
 Each report includes technical description, exploitation steps, screenshots, payloads used, and proposed mitigations.
