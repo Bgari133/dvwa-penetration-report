@@ -37,6 +37,8 @@ Each report includes technical description, exploitation steps, screenshots, pay
 - [Command Injection](report/command-injection.md)
 - [SQL Injection](report/sql-injection.md)
 - [Reflected XSS](report/reflected-xss.md)
+- [CSRF](/report/CSRF)
+- [brute-force](/report/burte-force)
 ---
 ## 🎯 Key Objectives
 
