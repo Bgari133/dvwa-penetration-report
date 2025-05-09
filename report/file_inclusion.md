@@ -24,7 +24,7 @@ To read `/etc/passwd` (Linux sensitive file):
 ## 📸 Result
 
 The contents of `/etc/passwd` are displayed in the browser, proving successful file inclusion.
-(See screenshot: [file_inclusion.png](screenshots/file_inclusion.jpg))
+(See screenshot: [file_inclusion.jpg](screenshots/file_inclusion.jpg))
 
 ---
 ## 🧠 How the Vulnerability Works
@@ -48,5 +48,6 @@ The contents of `/etc/passwd` are displayed in the browser, proving successful f
 ## References
 
 - [OWASP File Inclusion](https://owasp.org/www-community/attacks/Path_Traversal)
-- [OWASP Testing Guide: File Inclusion](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/15-Testing_for_Local_File_Inclusion)
+- [Wikipedia](https://en.wikipedia.org/wiki/Remote_File_Inclusion)
+- [Testing for Local File Inclusion](https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/07-Input_Validation_Testing/11.1-Testing_for_Local_File_Inclusion)
 - [PayloadsAllTheThings - File Inclusion](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion)
