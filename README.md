@@ -39,6 +39,7 @@ Each report includes technical description, exploitation steps, screenshots, pay
 - [Reflected XSS](report/reflected-xss.md)
 - [CSRF](/report/CSRF.md)
 - [brute-force](/report/burte-force.md)
+- [file inclusion](report/File%20inclusion.md)
 ---
 ## 🎯 Key Objectives
 
