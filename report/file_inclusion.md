@@ -24,7 +24,7 @@ To read `/etc/passwd` (Linux sensitive file):
 ## 📸 Result
 
 The contents of `/etc/passwd` are displayed in the browser, proving successful file inclusion.
-(See screenshot: [file_inclusion.JPG](../screenshots/file_inclusion.JPG))
+(See screenshot: [file_inclusion.jpg](../screenshots/file_inclusion.jpg))
 
 ---
 ## 🧠 How the Vulnerability Works
